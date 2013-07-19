@@ -1,0 +1,22 @@
+<sequence>
+  <item type="folder" name="3D">
+		<item type="folder" name="anim">
+			<item type="folder" name="incrementalSave"/>
+		</item>
+		<item type="folder" name="blocking">
+			<item type="folder" name="incrementalSave"/>
+		</item>
+		<item type="folder" name="data">
+			<item type="folder" name="cache"/>
+			<item type="folder" name="export"/>
+		</item>
+		<item type="folder" name="effect">
+			<item type="folder" name="incrementalSave"/>
+		</item>
+		<item type="folder" name="light">
+			<item type="folder" name="incrementalSave"/>
+		</item>
+		<item type="folder" name="playBlast"/>
+		<item type="folder" name="renderFiles"/>
+	</item>
+</sequence>
