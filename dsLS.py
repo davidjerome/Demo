@@ -3,6 +3,7 @@ from PyQt4 import QtGui, QtCore, uic
 import dsLight
 reload(dsLight)
 
+# for the custom Icons
 import dsLSResourceUI
 reload(dsLSResourceUI)
 
