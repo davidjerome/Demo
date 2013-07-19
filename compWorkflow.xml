@@ -1,0 +1,20 @@
+<shot>
+    <item type="folder" name="comp">
+      <item type="folder" name="published3D"/>
+        <item type="folder" name="compOut">
+    	    <item type="folder" name="v000"/>
+        </item>
+        <item type="folder" name="nukeScripts">
+            <item type="folder" name="2DElement"/>
+            <item type="file" name="tmpNukeScript.nk"/>
+        </item>
+        <item type="folder" name="2DElement"/> 
+        <item type="folder" name="3DExport"/>
+		<item type="folder" name="scan"/>
+    </item>
+	<item type="folder" name="published2D">
+        <item type="folder" name="compOut"/>
+        <item type="folder" name="playBlast"/>
+        <item type="folder" name="storyBoard"/>
+    </item>
+</shot>
