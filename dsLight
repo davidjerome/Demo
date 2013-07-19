@@ -1,16 +1,6 @@
 import maya.cmds as cmds
 import maya.mel as mel
 
-#find all lights in scene, supports vray light types
-#print cmds.ls(lt=True) + cmds.ls(type='VRayLightRectShape') + cmds.ls(type='VRayLightDomeShape') + cmds.ls(type='VRayLightIESShape') + cmds.ls(type='VRayLightSphereShape')
-
-#print cmds.nodeType(cmds.ls(selection=True))
-
-#rElement = cmds.ls(type='VRayRenderElement')
-#reList = cmds.ls(type='VRayRenderElementSet')
-
-#for re in reList:
-    #print cmds.getAttr(re+".vrayClassType")
     
 def dsCreateLight(name,type):
     # name of the light and what type of light to create
